@@ -6,13 +6,13 @@ class Solution:
             index=index+1
             if target <= i:
                 break
-        # return index
+
         if target <= nums[L-1]:
             return index-1 
         elif target >nums[L-1]:
             return index
-        else:
-            return index
+        # else:
+        #     return index
 
 
         
