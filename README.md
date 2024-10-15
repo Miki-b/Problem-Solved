@@ -14,6 +14,7 @@
 | [0645-set-mismatch](https://github.com/Miki-b/Problem-Solved/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/Miki-b/Problem-Solved/tree/master/0948-sort-an-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Miki-b/Problem-Solved/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Miki-b/Problem-Solved/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 ## Hash Table
 |  |
 | ------- |
