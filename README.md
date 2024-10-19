@@ -20,6 +20,7 @@
 | [0645-set-mismatch](https://github.com/Miki-b/Problem-Solved/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/Miki-b/Problem-Solved/tree/master/0948-sort-an-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Miki-b/Problem-Solved/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Miki-b/Problem-Solved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2228-watering-plants-ii](https://github.com/Miki-b/Problem-Solved/tree/master/2228-watering-plants-ii) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Miki-b/Problem-Solved/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Miki-b/Problem-Solved/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -125,9 +126,11 @@
 ## Simulation
 |  |
 | ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Miki-b/Problem-Solved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2228-watering-plants-ii](https://github.com/Miki-b/Problem-Solved/tree/master/2228-watering-plants-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Miki-b/Problem-Solved/tree/master/0048-rotate-image) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Miki-b/Problem-Solved/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
