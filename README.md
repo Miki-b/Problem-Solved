@@ -52,6 +52,7 @@
 | [0013-roman-to-integer](https://github.com/Miki-b/Problem-Solved/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Miki-b/Problem-Solved/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/0345-reverse-vowels-of-a-string) |
+| [2154-minimum-moves-to-convert-string](https://github.com/Miki-b/Problem-Solved/tree/master/2154-minimum-moves-to-convert-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Miki-b/Problem-Solved/tree/master/0011-container-with-most-water) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Miki-b/Problem-Solved/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2154-minimum-moves-to-convert-string](https://github.com/Miki-b/Problem-Solved/tree/master/2154-minimum-moves-to-convert-string) |
 ## Game Theory
 |  |
 | ------- |
