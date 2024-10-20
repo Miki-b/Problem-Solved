@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/Miki-b/Problem-Solved/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Miki-b/Problem-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Miki-b/Problem-Solved/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/Miki-b/Problem-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Miki-b/Problem-Solved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Miki-b/Problem-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Miki-b/Problem-Solved/tree/master/0349-intersection-of-two-arrays) |
@@ -30,6 +31,7 @@
 | [0001-two-sum](https://github.com/Miki-b/Problem-Solved/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Miki-b/Problem-Solved/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Miki-b/Problem-Solved/tree/master/0041-first-missing-positive) |
+| [0219-contains-duplicate-ii](https://github.com/Miki-b/Problem-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Miki-b/Problem-Solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Miki-b/Problem-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Miki-b/Problem-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -140,6 +142,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Miki-b/Problem-Solved/tree/master/0219-contains-duplicate-ii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Miki-b/Problem-Solved/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
 |  |
