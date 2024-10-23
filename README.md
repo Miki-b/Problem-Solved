@@ -38,6 +38,7 @@
 | [0268-missing-number](https://github.com/Miki-b/Problem-Solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Miki-b/Problem-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Miki-b/Problem-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Miki-b/Problem-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Miki-b/Problem-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Miki-b/Problem-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -59,6 +60,7 @@
 | [0013-roman-to-integer](https://github.com/Miki-b/Problem-Solved/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Miki-b/Problem-Solved/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/0345-reverse-vowels-of-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Miki-b/Problem-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Miki-b/Problem-Solved/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Miki-b/Problem-Solved/tree/master/2154-minimum-moves-to-convert-string) |
@@ -152,6 +154,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Miki-b/Problem-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Miki-b/Problem-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Miki-b/Problem-Solved/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Miki-b/Problem-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Miki-b/Problem-Solved/tree/master/0643-maximum-average-subarray-i) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Miki-b/Problem-Solved/tree/master/2134-maximize-the-confusion-of-an-exam) |
