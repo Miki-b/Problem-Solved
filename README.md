@@ -30,6 +30,7 @@
 | [2228-watering-plants-ii](https://github.com/Miki-b/Problem-Solved/tree/master/2228-watering-plants-ii) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Miki-b/Problem-Solved/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Miki-b/Problem-Solved/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Miki-b/Problem-Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Miki-b/Problem-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Miki-b/Problem-Solved/tree/master/0645-set-mismatch) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Miki-b/Problem-Solved/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Miki-b/Problem-Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Miki-b/Problem-Solved/tree/master/0948-sort-an-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Miki-b/Problem-Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -171,6 +174,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Miki-b/Problem-Solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Miki-b/Problem-Solved/tree/master/1755-defuse-the-bomb) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Miki-b/Problem-Solved/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Miki-b/Problem-Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
