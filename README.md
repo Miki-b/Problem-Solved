@@ -219,4 +219,12 @@
 | ------- |
 | [0100-same-tree](https://github.com/Miki-b/Problem-Solved/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Miki-b/Problem-Solved/tree/master/0101-symmetric-tree) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Miki-b/Problem-Solved/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Miki-b/Problem-Solved/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
