@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Miki-b/Problem-Solved/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Miki-b/Problem-Solved/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Miki-b/Problem-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Miki-b/Problem-Solved/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Miki-b/Problem-Solved/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Miki-b/Problem-Solved/tree/master/0075-sort-colors) |
@@ -80,6 +81,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Miki-b/Problem-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Miki-b/Problem-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Miki-b/Problem-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Miki-b/Problem-Solved/tree/master/0268-missing-number) |
