@@ -10,6 +10,7 @@
 | [0041-first-missing-positive](https://github.com/Miki-b/Problem-Solved/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Miki-b/Problem-Solved/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Miki-b/Problem-Solved/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Miki-b/Problem-Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Miki-b/Problem-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Miki-b/Problem-Solved/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Miki-b/Problem-Solved/tree/master/0209-minimum-size-subarray-sum) |
@@ -130,6 +131,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Miki-b/Problem-Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0948-sort-an-array](https://github.com/Miki-b/Problem-Solved/tree/master/0948-sort-an-array) |
 | [1873-longest-nice-substring](https://github.com/Miki-b/Problem-Solved/tree/master/1873-longest-nice-substring) |
 ## Heap (Priority Queue)
@@ -214,6 +216,7 @@
 | [0100-same-tree](https://github.com/Miki-b/Problem-Solved/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Miki-b/Problem-Solved/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Miki-b/Problem-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Miki-b/Problem-Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -228,6 +231,7 @@
 | [0100-same-tree](https://github.com/Miki-b/Problem-Solved/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Miki-b/Problem-Solved/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Miki-b/Problem-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Miki-b/Problem-Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -242,4 +246,8 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Miki-b/Problem-Solved/tree/master/0024-swap-nodes-in-pairs) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Miki-b/Problem-Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
