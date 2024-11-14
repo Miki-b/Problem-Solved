@@ -1,15 +1,13 @@
-#Python3 Code
 class Solution:
     def countKConstraintSubstrings(self, s: str, k: int) -> int:
-        res = 0
+        ans = 0
         n = len(s)
         for i in range(n):
-            z = o = 0
+            bin_count = {0: 0, 1: 0}  # Initialize the count for '0' and '1'
             for j in range(i, n):
-                if s[j] == '0':
-                    z += 1
+                bin_count[int(s[j])] += 1  # Update the count for '0' or '1'
+                if bin_count[0] <= k or bin_count[1] <= k:  # Check the constraint
+                    ans += 1
                 else:
-                    o += 1
-                if z <= k or o <= k:
-                    res += 1
-        return res
+                    break  # Stop counting if the constraint is violated
+        return ans
