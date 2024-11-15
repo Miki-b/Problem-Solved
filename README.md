@@ -30,6 +30,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Miki-b/Problem-Solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Miki-b/Problem-Solved/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1755-defuse-the-bomb](https://github.com/Miki-b/Problem-Solved/tree/master/1755-defuse-the-bomb) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Miki-b/Problem-Solved/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Miki-b/Problem-Solved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2228-watering-plants-ii](https://github.com/Miki-b/Problem-Solved/tree/master/2228-watering-plants-ii) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Miki-b/Problem-Solved/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
@@ -124,6 +125,7 @@
 | [0645-set-mismatch](https://github.com/Miki-b/Problem-Solved/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/Miki-b/Problem-Solved/tree/master/0948-sort-an-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Miki-b/Problem-Solved/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Miki-b/Problem-Solved/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Miki-b/Problem-Solved/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Two Pointers
 |  |
@@ -206,6 +208,7 @@
 | [1755-defuse-the-bomb](https://github.com/Miki-b/Problem-Solved/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/Miki-b/Problem-Solved/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Miki-b/Problem-Solved/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Miki-b/Problem-Solved/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Miki-b/Problem-Solved/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Miki-b/Problem-Solved/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Miki-b/Problem-Solved/tree/master/2866-longest-even-odd-subarray-with-threshold) |
