@@ -50,6 +50,7 @@
 | [0268-missing-number](https://github.com/Miki-b/Problem-Solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Miki-b/Problem-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Miki-b/Problem-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Miki-b/Problem-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Miki-b/Problem-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -84,6 +85,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Miki-b/Problem-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/Miki-b/Problem-Solved/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Miki-b/Problem-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Miki-b/Problem-Solved/tree/master/0567-permutation-in-string) |
@@ -169,6 +171,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Miki-b/Problem-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/Miki-b/Problem-Solved/tree/master/0948-sort-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Miki-b/Problem-Solved/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -282,4 +285,8 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Miki-b/Problem-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Miki-b/Problem-Solved/tree/master/0039-combination-sum) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
