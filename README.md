@@ -47,6 +47,7 @@
 | [0013-roman-to-integer](https://github.com/Miki-b/Problem-Solved/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Miki-b/Problem-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Miki-b/Problem-Solved/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/Miki-b/Problem-Solved/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Miki-b/Problem-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Miki-b/Problem-Solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Miki-b/Problem-Solved/tree/master/0349-intersection-of-two-arrays) |
@@ -73,6 +74,7 @@
 | [0013-roman-to-integer](https://github.com/Miki-b/Problem-Solved/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Miki-b/Problem-Solved/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Miki-b/Problem-Solved/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Miki-b/Problem-Solved/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Miki-b/Problem-Solved/tree/master/0268-missing-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Miki-b/Problem-Solved/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Miki-b/Problem-Solved/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -141,6 +143,7 @@
 | [0075-sort-colors](https://github.com/Miki-b/Problem-Solved/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Miki-b/Problem-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Miki-b/Problem-Solved/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Miki-b/Problem-Solved/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Miki-b/Problem-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Miki-b/Problem-Solved/tree/master/0349-intersection-of-two-arrays) |
