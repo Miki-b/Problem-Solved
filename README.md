@@ -100,6 +100,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Miki-b/Problem-Solved/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Miki-b/Problem-Solved/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Miki-b/Problem-Solved/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3636-check-balanced-string](https://github.com/Miki-b/Problem-Solved/tree/master/3636-check-balanced-string) |
 ## Binary Search
 |  |
 | ------- |
