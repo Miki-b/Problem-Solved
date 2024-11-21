@@ -51,6 +51,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Miki-b/Problem-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Miki-b/Problem-Solved/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/Miki-b/Problem-Solved/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Miki-b/Problem-Solved/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Miki-b/Problem-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Miki-b/Problem-Solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Miki-b/Problem-Solved/tree/master/0349-intersection-of-two-arrays) |
@@ -92,6 +93,7 @@
 | [0013-roman-to-integer](https://github.com/Miki-b/Problem-Solved/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Miki-b/Problem-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/Miki-b/Problem-Solved/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/Miki-b/Problem-Solved/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Miki-b/Problem-Solved/tree/master/0424-longest-repeating-character-replacement) |
