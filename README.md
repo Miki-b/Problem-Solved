@@ -21,6 +21,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Miki-b/Problem-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Miki-b/Problem-Solved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Miki-b/Problem-Solved/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Miki-b/Problem-Solved/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Miki-b/Problem-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Miki-b/Problem-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Miki-b/Problem-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -244,6 +245,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Miki-b/Problem-Solved/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Miki-b/Problem-Solved/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/Miki-b/Problem-Solved/tree/master/1603-running-sum-of-1d-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Miki-b/Problem-Solved/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Dynamic Programming
@@ -313,4 +315,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/0387-first-unique-character-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Miki-b/Problem-Solved/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
