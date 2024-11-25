@@ -7,7 +7,7 @@ class Solution:
             if nums[i]==1:
                 count+=1
             elif nums[i]==0:
-                max_length=max(max_length,count)
+                #max_length=max(max_length,count)
                 count=0  
             max_length=max(max_length,count)
         return max_length  
