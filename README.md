@@ -37,6 +37,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Miki-b/Problem-Solved/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Miki-b/Problem-Solved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2228-watering-plants-ii](https://github.com/Miki-b/Problem-Solved/tree/master/2228-watering-plants-ii) |
+| [2465-shifting-letters-ii](https://github.com/Miki-b/Problem-Solved/tree/master/2465-shifting-letters-ii) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Miki-b/Problem-Solved/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Miki-b/Problem-Solved/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Miki-b/Problem-Solved/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -109,6 +110,7 @@
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Miki-b/Problem-Solved/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Miki-b/Problem-Solved/tree/master/2154-minimum-moves-to-convert-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Miki-b/Problem-Solved/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2465-shifting-letters-ii](https://github.com/Miki-b/Problem-Solved/tree/master/2465-shifting-letters-ii) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Miki-b/Problem-Solved/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Miki-b/Problem-Solved/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3636-check-balanced-string](https://github.com/Miki-b/Problem-Solved/tree/master/3636-check-balanced-string) |
@@ -248,6 +250,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Miki-b/Problem-Solved/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/Miki-b/Problem-Solved/tree/master/1603-running-sum-of-1d-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Miki-b/Problem-Solved/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2465-shifting-letters-ii](https://github.com/Miki-b/Problem-Solved/tree/master/2465-shifting-letters-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
