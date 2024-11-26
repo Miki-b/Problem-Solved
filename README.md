@@ -108,6 +108,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Miki-b/Problem-Solved/tree/master/0567-permutation-in-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Miki-b/Problem-Solved/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1873-longest-nice-substring](https://github.com/Miki-b/Problem-Solved/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Miki-b/Problem-Solved/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Miki-b/Problem-Solved/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -253,6 +254,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Miki-b/Problem-Solved/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Miki-b/Problem-Solved/tree/master/0724-find-pivot-index) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Miki-b/Problem-Solved/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Miki-b/Problem-Solved/tree/master/1603-running-sum-of-1d-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Miki-b/Problem-Solved/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2465-shifting-letters-ii](https://github.com/Miki-b/Problem-Solved/tree/master/2465-shifting-letters-ii) |
