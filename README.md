@@ -102,6 +102,7 @@
 | [0012-integer-to-roman](https://github.com/Miki-b/Problem-Solved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Miki-b/Problem-Solved/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Miki-b/Problem-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Miki-b/Problem-Solved/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Miki-b/Problem-Solved/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Miki-b/Problem-Solved/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/0345-reverse-vowels-of-a-string) |
@@ -265,6 +266,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Miki-b/Problem-Solved/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Miki-b/Problem-Solved/tree/master/0022-generate-parentheses) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Miki-b/Problem-Solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
@@ -323,6 +325,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Miki-b/Problem-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Miki-b/Problem-Solved/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Miki-b/Problem-Solved/tree/master/0039-combination-sum) |
 ## Queue
 |  |
