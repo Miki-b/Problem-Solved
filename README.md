@@ -92,6 +92,7 @@
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Miki-b/Problem-Solved/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Miki-b/Problem-Solved/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Miki-b/Problem-Solved/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Miki-b/Problem-Solved/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Miki-b/Problem-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -213,6 +214,7 @@
 | [0011-container-with-most-water](https://github.com/Miki-b/Problem-Solved/tree/master/0011-container-with-most-water) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Miki-b/Problem-Solved/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Miki-b/Problem-Solved/tree/master/2154-minimum-moves-to-convert-string) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Miki-b/Problem-Solved/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Game Theory
 |  |
 | ------- |
