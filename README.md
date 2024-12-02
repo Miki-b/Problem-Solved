@@ -47,6 +47,7 @@
 | [2465-shifting-letters-ii](https://github.com/Miki-b/Problem-Solved/tree/master/2465-shifting-letters-ii) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Miki-b/Problem-Solved/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Miki-b/Problem-Solved/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2634-minimum-common-value](https://github.com/Miki-b/Problem-Solved/tree/master/2634-minimum-common-value) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Miki-b/Problem-Solved/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Miki-b/Problem-Solved/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Miki-b/Problem-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -78,6 +79,7 @@
 | [1873-longest-nice-substring](https://github.com/Miki-b/Problem-Solved/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Miki-b/Problem-Solved/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Miki-b/Problem-Solved/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2634-minimum-common-value](https://github.com/Miki-b/Problem-Solved/tree/master/2634-minimum-common-value) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Miki-b/Problem-Solved/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Miki-b/Problem-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Miki-b/Problem-Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -138,6 +140,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Miki-b/Problem-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Miki-b/Problem-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Miki-b/Problem-Solved/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2634-minimum-common-value](https://github.com/Miki-b/Problem-Solved/tree/master/2634-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -183,6 +186,7 @@
 | [0567-permutation-in-string](https://github.com/Miki-b/Problem-Solved/tree/master/0567-permutation-in-string) |
 | [2228-watering-plants-ii](https://github.com/Miki-b/Problem-Solved/tree/master/2228-watering-plants-ii) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Miki-b/Problem-Solved/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2634-minimum-common-value](https://github.com/Miki-b/Problem-Solved/tree/master/2634-minimum-common-value) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Miki-b/Problem-Solved/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Divide and Conquer
 |  |
