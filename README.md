@@ -91,6 +91,7 @@
 | [0012-integer-to-roman](https://github.com/Miki-b/Problem-Solved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Miki-b/Problem-Solved/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Miki-b/Problem-Solved/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/Miki-b/Problem-Solved/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Miki-b/Problem-Solved/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Miki-b/Problem-Solved/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Miki-b/Problem-Solved/tree/master/0268-missing-number) |
@@ -110,6 +111,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Miki-b/Problem-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Miki-b/Problem-Solved/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Miki-b/Problem-Solved/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Miki-b/Problem-Solved/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/Miki-b/Problem-Solved/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Miki-b/Problem-Solved/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/0345-reverse-vowels-of-a-string) |
@@ -144,6 +146,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Miki-b/Problem-Solved/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Miki-b/Problem-Solved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Miki-b/Problem-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Miki-b/Problem-Solved/tree/master/0645-set-mismatch) |
@@ -234,6 +237,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Miki-b/Problem-Solved/tree/master/0067-add-binary) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Miki-b/Problem-Solved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2228-watering-plants-ii](https://github.com/Miki-b/Problem-Solved/tree/master/2228-watering-plants-ii) |
 ## Matrix
