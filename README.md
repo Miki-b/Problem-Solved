@@ -34,6 +34,7 @@
 | [0645-set-mismatch](https://github.com/Miki-b/Problem-Solved/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Miki-b/Problem-Solved/tree/master/0724-find-pivot-index) |
 | [0948-sort-an-array](https://github.com/Miki-b/Problem-Solved/tree/master/0948-sort-an-array) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Miki-b/Problem-Solved/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1127-last-stone-weight](https://github.com/Miki-b/Problem-Solved/tree/master/1127-last-stone-weight) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Miki-b/Problem-Solved/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Miki-b/Problem-Solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -77,6 +78,7 @@
 | [0567-permutation-in-string](https://github.com/Miki-b/Problem-Solved/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Miki-b/Problem-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Miki-b/Problem-Solved/tree/master/0645-set-mismatch) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Miki-b/Problem-Solved/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1873-longest-nice-substring](https://github.com/Miki-b/Problem-Solved/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Miki-b/Problem-Solved/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Miki-b/Problem-Solved/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -278,6 +280,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Miki-b/Problem-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Miki-b/Problem-Solved/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Miki-b/Problem-Solved/tree/master/0724-find-pivot-index) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Miki-b/Problem-Solved/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Miki-b/Problem-Solved/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Miki-b/Problem-Solved/tree/master/1603-running-sum-of-1d-array) |
