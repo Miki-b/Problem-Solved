@@ -6,8 +6,8 @@ class Solution:
         res=0
         for i in range(len(nums)):
             sum+=(nums[i])
-            
-            res+=prefix.get((sum%k),0)
-            prefix[sum%k]+=1
+            reminder=sum%k
+            res+=prefix.get((reminder),0)
+            prefix[reminder]+=1
             
         return res
