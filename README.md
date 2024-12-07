@@ -125,6 +125,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Miki-b/Problem-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Miki-b/Problem-Solved/tree/master/0567-permutation-in-string) |
+| [0874-backspace-string-compare](https://github.com/Miki-b/Problem-Solved/tree/master/0874-backspace-string-compare) |
 | [1205-defanging-an-ip-address](https://github.com/Miki-b/Problem-Solved/tree/master/1205-defanging-an-ip-address) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Miki-b/Problem-Solved/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -195,6 +196,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Miki-b/Problem-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Miki-b/Problem-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Miki-b/Problem-Solved/tree/master/0567-permutation-in-string) |
+| [0874-backspace-string-compare](https://github.com/Miki-b/Problem-Solved/tree/master/0874-backspace-string-compare) |
 | [2228-watering-plants-ii](https://github.com/Miki-b/Problem-Solved/tree/master/2228-watering-plants-ii) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Miki-b/Problem-Solved/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Miki-b/Problem-Solved/tree/master/2561-number-of-distinct-averages) |
@@ -247,6 +249,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Miki-b/Problem-Solved/tree/master/0067-add-binary) |
+| [0874-backspace-string-compare](https://github.com/Miki-b/Problem-Solved/tree/master/0874-backspace-string-compare) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Miki-b/Problem-Solved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2228-watering-plants-ii](https://github.com/Miki-b/Problem-Solved/tree/master/2228-watering-plants-ii) |
 ## Matrix
@@ -301,6 +304,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Miki-b/Problem-Solved/tree/master/0094-binary-tree-inorder-traversal) |
+| [0874-backspace-string-compare](https://github.com/Miki-b/Problem-Solved/tree/master/0874-backspace-string-compare) |
 ## Tree
 |  |
 | ------- |
