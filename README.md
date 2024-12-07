@@ -131,6 +131,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1873-longest-nice-substring](https://github.com/Miki-b/Problem-Solved/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Miki-b/Problem-Solved/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2128-reverse-prefix-of-word](https://github.com/Miki-b/Problem-Solved/tree/master/2128-reverse-prefix-of-word) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Miki-b/Problem-Solved/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Miki-b/Problem-Solved/tree/master/2154-minimum-moves-to-convert-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Miki-b/Problem-Solved/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -197,6 +198,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Miki-b/Problem-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Miki-b/Problem-Solved/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/Miki-b/Problem-Solved/tree/master/0874-backspace-string-compare) |
+| [2128-reverse-prefix-of-word](https://github.com/Miki-b/Problem-Solved/tree/master/2128-reverse-prefix-of-word) |
 | [2228-watering-plants-ii](https://github.com/Miki-b/Problem-Solved/tree/master/2228-watering-plants-ii) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Miki-b/Problem-Solved/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Miki-b/Problem-Solved/tree/master/2561-number-of-distinct-averages) |
@@ -305,6 +307,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Miki-b/Problem-Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Miki-b/Problem-Solved/tree/master/0874-backspace-string-compare) |
+| [2128-reverse-prefix-of-word](https://github.com/Miki-b/Problem-Solved/tree/master/2128-reverse-prefix-of-word) |
 ## Tree
 |  |
 | ------- |
