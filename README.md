@@ -117,6 +117,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Miki-b/Problem-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Miki-b/Problem-Solved/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Miki-b/Problem-Solved/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/Miki-b/Problem-Solved/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Miki-b/Problem-Solved/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/Miki-b/Problem-Solved/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Miki-b/Problem-Solved/tree/master/0205-isomorphic-strings) |
