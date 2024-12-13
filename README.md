@@ -38,6 +38,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Miki-b/Problem-Solved/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Miki-b/Problem-Solved/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Miki-b/Problem-Solved/tree/master/0724-find-pivot-index) |
+| [0878-shifting-letters](https://github.com/Miki-b/Problem-Solved/tree/master/0878-shifting-letters) |
 | [0948-sort-an-array](https://github.com/Miki-b/Problem-Solved/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Miki-b/Problem-Solved/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1127-last-stone-weight](https://github.com/Miki-b/Problem-Solved/tree/master/1127-last-stone-weight) |
@@ -133,6 +134,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Miki-b/Problem-Solved/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/Miki-b/Problem-Solved/tree/master/0874-backspace-string-compare) |
+| [0878-shifting-letters](https://github.com/Miki-b/Problem-Solved/tree/master/0878-shifting-letters) |
 | [1205-defanging-an-ip-address](https://github.com/Miki-b/Problem-Solved/tree/master/1205-defanging-an-ip-address) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Miki-b/Problem-Solved/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -300,6 +302,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Miki-b/Problem-Solved/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Miki-b/Problem-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Miki-b/Problem-Solved/tree/master/0724-find-pivot-index) |
+| [0878-shifting-letters](https://github.com/Miki-b/Problem-Solved/tree/master/0878-shifting-letters) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Miki-b/Problem-Solved/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Miki-b/Problem-Solved/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
