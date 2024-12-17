@@ -19,6 +19,7 @@
 | [0054-spiral-matrix](https://github.com/Miki-b/Problem-Solved/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Miki-b/Problem-Solved/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Miki-b/Problem-Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Miki-b/Problem-Solved/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Miki-b/Problem-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Miki-b/Problem-Solved/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Miki-b/Problem-Solved/tree/master/0189-rotate-array) |
@@ -319,6 +320,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Miki-b/Problem-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Miki-b/Problem-Solved/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/Miki-b/Problem-Solved/tree/master/0118-pascals-triangle) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Miki-b/Problem-Solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
