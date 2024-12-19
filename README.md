@@ -149,6 +149,7 @@
 | [2154-minimum-moves-to-convert-string](https://github.com/Miki-b/Problem-Solved/tree/master/2154-minimum-moves-to-convert-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Miki-b/Problem-Solved/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Miki-b/Problem-Solved/tree/master/2465-shifting-letters-ii) |
+| [2470-removing-stars-from-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/2470-removing-stars-from-a-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Miki-b/Problem-Solved/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Miki-b/Problem-Solved/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3636-check-balanced-string](https://github.com/Miki-b/Problem-Solved/tree/master/3636-check-balanced-string) |
@@ -268,6 +269,7 @@
 | [0874-backspace-string-compare](https://github.com/Miki-b/Problem-Solved/tree/master/0874-backspace-string-compare) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Miki-b/Problem-Solved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2228-watering-plants-ii](https://github.com/Miki-b/Problem-Solved/tree/master/2228-watering-plants-ii) |
+| [2470-removing-stars-from-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -331,6 +333,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Miki-b/Problem-Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Miki-b/Problem-Solved/tree/master/0874-backspace-string-compare) |
 | [2128-reverse-prefix-of-word](https://github.com/Miki-b/Problem-Solved/tree/master/2128-reverse-prefix-of-word) |
+| [2470-removing-stars-from-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
