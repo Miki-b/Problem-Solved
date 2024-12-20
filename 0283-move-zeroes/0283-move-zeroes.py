@@ -3,13 +3,13 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        left=0
-        
-        for right in range(len(nums)):
-            if nums[right]!=0:
-                nums[left],nums[right]=nums[right],nums[left]
-                left=left+1
-                
-                
-
+        L1=0
+        L2=L1+1
+        while L2<len(nums):
+            if nums[L1]==0 and nums[L2]!=0:
+                nums[L1],nums[L2]=nums[L2],nums[L1]
+                L1+=1   
+            if nums[L1]!=0:
+                L1+=1
+            L2+=1
         
