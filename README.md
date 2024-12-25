@@ -45,6 +45,7 @@
 | [0940-fruit-into-baskets](https://github.com/Miki-b/Problem-Solved/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Miki-b/Problem-Solved/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Miki-b/Problem-Solved/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Miki-b/Problem-Solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/Miki-b/Problem-Solved/tree/master/1127-last-stone-weight) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Miki-b/Problem-Solved/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Miki-b/Problem-Solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -167,6 +168,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Miki-b/Problem-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Miki-b/Problem-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Miki-b/Problem-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/Miki-b/Problem-Solved/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Miki-b/Problem-Solved/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2634-minimum-common-value](https://github.com/Miki-b/Problem-Solved/tree/master/2634-minimum-common-value) |
 ## Bit Manipulation
@@ -294,6 +296,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Miki-b/Problem-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Miki-b/Problem-Solved/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/Miki-b/Problem-Solved/tree/master/0940-fruit-into-baskets) |
+| [1046-max-consecutive-ones-iii](https://github.com/Miki-b/Problem-Solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Miki-b/Problem-Solved/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Miki-b/Problem-Solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Miki-b/Problem-Solved/tree/master/1755-defuse-the-bomb) |
@@ -317,6 +320,7 @@
 | [0724-find-pivot-index](https://github.com/Miki-b/Problem-Solved/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/Miki-b/Problem-Solved/tree/master/0878-shifting-letters) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Miki-b/Problem-Solved/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Miki-b/Problem-Solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Miki-b/Problem-Solved/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Miki-b/Problem-Solved/tree/master/1603-running-sum-of-1d-array) |
