@@ -417,4 +417,8 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Miki-b/Problem-Solved/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Miki-b/Problem-Solved/tree/master/0304-range-sum-query-2d-immutable) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Miki-b/Problem-Solved/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
