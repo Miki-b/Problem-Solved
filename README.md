@@ -18,6 +18,7 @@
 | [0048-rotate-image](https://github.com/Miki-b/Problem-Solved/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Miki-b/Problem-Solved/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Miki-b/Problem-Solved/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Miki-b/Problem-Solved/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Miki-b/Problem-Solved/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Miki-b/Problem-Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Miki-b/Problem-Solved/tree/master/0118-pascals-triangle) |
@@ -274,6 +275,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Miki-b/Problem-Solved/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Miki-b/Problem-Solved/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Miki-b/Problem-Solved/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/Miki-b/Problem-Solved/tree/master/0874-backspace-string-compare) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Miki-b/Problem-Solved/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -286,6 +288,7 @@
 | [0036-valid-sudoku](https://github.com/Miki-b/Problem-Solved/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Miki-b/Problem-Solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Miki-b/Problem-Solved/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Miki-b/Problem-Solved/tree/master/0059-spiral-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Miki-b/Problem-Solved/tree/master/0304-range-sum-query-2d-immutable) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Miki-b/Problem-Solved/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Sliding Window
