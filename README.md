@@ -18,6 +18,7 @@
 | [0048-rotate-image](https://github.com/Miki-b/Problem-Solved/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Miki-b/Problem-Solved/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Miki-b/Problem-Solved/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Miki-b/Problem-Solved/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Miki-b/Problem-Solved/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Miki-b/Problem-Solved/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Miki-b/Problem-Solved/tree/master/0075-sort-colors) |
@@ -190,6 +191,7 @@
 | [0015-3sum](https://github.com/Miki-b/Problem-Solved/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Miki-b/Problem-Solved/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Miki-b/Problem-Solved/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Miki-b/Problem-Solved/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Miki-b/Problem-Solved/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Miki-b/Problem-Solved/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Miki-b/Problem-Solved/tree/master/0268-missing-number) |
