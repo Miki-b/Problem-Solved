@@ -18,6 +18,7 @@
 | [0048-rotate-image](https://github.com/Miki-b/Problem-Solved/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Miki-b/Problem-Solved/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Miki-b/Problem-Solved/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Miki-b/Problem-Solved/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Miki-b/Problem-Solved/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Miki-b/Problem-Solved/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Miki-b/Problem-Solved/tree/master/0059-spiral-matrix-ii) |
@@ -266,6 +267,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Miki-b/Problem-Solved/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Miki-b/Problem-Solved/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Miki-b/Problem-Solved/tree/master/0179-largest-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Miki-b/Problem-Solved/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Miki-b/Problem-Solved/tree/master/2154-minimum-moves-to-convert-string) |
@@ -343,6 +345,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Miki-b/Problem-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Miki-b/Problem-Solved/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Miki-b/Problem-Solved/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Miki-b/Problem-Solved/tree/master/0118-pascals-triangle) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Miki-b/Problem-Solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
