@@ -140,6 +140,7 @@
 | [0058-length-of-last-word](https://github.com/Miki-b/Problem-Solved/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Miki-b/Problem-Solved/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Miki-b/Problem-Solved/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Miki-b/Problem-Solved/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/Miki-b/Problem-Solved/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Miki-b/Problem-Solved/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Miki-b/Problem-Solved/tree/master/0345-reverse-vowels-of-a-string) |
@@ -351,6 +352,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Miki-b/Problem-Solved/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Miki-b/Problem-Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Miki-b/Problem-Solved/tree/master/0874-backspace-string-compare) |
 | [1720-crawler-log-folder](https://github.com/Miki-b/Problem-Solved/tree/master/1720-crawler-log-folder) |
