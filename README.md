@@ -17,6 +17,7 @@
 | [0041-first-missing-positive](https://github.com/Miki-b/Problem-Solved/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Miki-b/Problem-Solved/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Miki-b/Problem-Solved/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Miki-b/Problem-Solved/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Miki-b/Problem-Solved/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Miki-b/Problem-Solved/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Miki-b/Problem-Solved/tree/master/0056-merge-intervals) |
@@ -238,6 +239,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Miki-b/Problem-Solved/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Miki-b/Problem-Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0948-sort-an-array](https://github.com/Miki-b/Problem-Solved/tree/master/0948-sort-an-array) |
 | [1873-longest-nice-substring](https://github.com/Miki-b/Problem-Solved/tree/master/1873-longest-nice-substring) |
@@ -349,6 +351,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Miki-b/Problem-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Miki-b/Problem-Solved/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Miki-b/Problem-Solved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Miki-b/Problem-Solved/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Miki-b/Problem-Solved/tree/master/0118-pascals-triangle) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Miki-b/Problem-Solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
